@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**GeovagnerVicente/GeovagnerVicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Geovagner vicente, sou um programador Front End, atulmente estudado e criando projrtos:
+<br>
+<br>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img scr="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javalogo"/>
+<p>
+<a href="https://www.intagram.com/geovagner_vicente">
+<img align="left" alt="icone-instagram" width="22" src="https://www.flaticon.com/br/icon-font-gratis/instagram_6422200" />
+</a>
+
+</p>
