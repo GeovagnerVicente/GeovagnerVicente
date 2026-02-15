@@ -10,9 +10,13 @@ Eu sou Geovagner vicente, sou um programador Front End, atulmente estudado e cri
 
 <br />
 ###
-<p>
 
-</p>
-![Geovagner stats](https://github-readme-stats.vercel.app/api?username=GeovagnerVicente_icons=true&theme=transparent)
+## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeovagnerVicente)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeovagnerVicente&show_icons=true&theme=tokyonight)
+
+
+
+
+
+
